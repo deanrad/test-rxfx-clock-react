@@ -1,0 +1,17 @@
+body {
+  font-size: x-large;
+}
+button {
+  font-size: xx-large;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.xlink {
+  font-size: 70%;
+}
+.isSetting {
+  background-color: #333333;
+  color: white;
+}
